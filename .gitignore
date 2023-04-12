@@ -348,3 +348,12 @@ MigrationBackup/
 
 # Ionide (cross platform F# VS Code tools) working folder
 .ionide/
+
+.DS_Store
+.idea/
+ConferencePlanner.Tests/__snapshots__/*
+ConferencePlanner/Migrations/*
+!ConferencePlanner/Migrations/.gitkeep
+ConferencePlanner/conferences.db
+ConferencePlanner/conferences.db-shm
+ConferencePlanner/conferences.db-wal

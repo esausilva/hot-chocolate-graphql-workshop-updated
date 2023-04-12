@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConferencePlanner", "ConferencePlanner\ConferencePlanner.csproj", "{8399B7D6-F8BA-43B8-AE0D-812669C24B3F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConferencePlanner.Tests", "ConferencePlanner.Tests\ConferencePlanner.Tests.csproj", "{419F7303-3E3A-447D-A9B6-51D932E203F9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{45E1F352-30C7-4153-89F2-0872CA99B3B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45E1F352-30C7-4153-89F2-0872CA99B3B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45E1F352-30C7-4153-89F2-0872CA99B3B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45E1F352-30C7-4153-89F2-0872CA99B3B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8399B7D6-F8BA-43B8-AE0D-812669C24B3F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8399B7D6-F8BA-43B8-AE0D-812669C24B3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8399B7D6-F8BA-43B8-AE0D-812669C24B3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8399B7D6-F8BA-43B8-AE0D-812669C24B3F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{419F7303-3E3A-447D-A9B6-51D932E203F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{419F7303-3E3A-447D-A9B6-51D932E203F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{419F7303-3E3A-447D-A9B6-51D932E203F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{419F7303-3E3A-447D-A9B6-51D932E203F9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
